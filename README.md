@@ -4,7 +4,7 @@ A free Excel workbook that calculates semester GPA, CGPA and arrear count, and s
 
 Built as a practice project in Excel formulas, data validation and sheet protection.
 
-![Cover](cover image.png)
+![Cover](cover_image.png)
 
 ## Features
 
